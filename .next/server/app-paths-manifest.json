@@ -1,6 +1,8 @@
 {
-  "/page": "app/page.js",
-  "/create-account/page": "app/create-account/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/login/page": "app/login/page.js",
-  "/sms/page": "app/sms/page.js"
+  "/page": "app/page.js",
+  "/www/users/route": "app/www/users/route.js",
+  "/sms/page": "app/sms/page.js",
+  "/create-account/page": "app/create-account/page.js"
 }
