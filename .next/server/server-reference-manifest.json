@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "75fb5bec6fddea67388010da3fa054fe5f8a57ed": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fbi001%2FDocuments%2Fcarrot-market-reloaded%2Fapp%2Flogin%2Faction.ts%22%2C%5B%22handleForm%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "L8KM5EePKai2ZAHFjZiIpGb5ALNk0CEoC/eExLxhtew="
 }
