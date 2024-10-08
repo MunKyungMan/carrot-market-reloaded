@@ -2,7 +2,7 @@
 
 import { z } from "zod";
 import validator from "validator";
-import { redirect } from "next/dist/server/api-utils";
+import { redirect } from "next/navigation";
 
 const phoneSchema = z
   .string()
